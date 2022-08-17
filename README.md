@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lizbethariadne
 - 👀 I’m interested in learning new skills and join the developers work
 - 🌱 I’m currently learning UX/UI Design
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lizbethariadne1999@gmail.com
 
 <!---
